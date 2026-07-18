@@ -1,21 +1,29 @@
 # Hi, I'm Gulam Rasool
 
-Industrial Automation Engineer with 9+ years experience in:
+Senior Industrial Automation Engineer with 9+ years of experience specializing in:
 
+- Industrial Software Development (C# WinForms .NET)
 - PLC Programming
 - Motion Control
-- Servo Systems
 - Robot Integration
 - Machine Vision
-- C# WinForms Industrial Software
+- Servo Systems
 - Python Automation
-- AI/ML Applications
+- Machine Learning & AI Applications (TensorFlow, Scikit-learn)
 
-## Current Focus
-Building industrial software systems and machine learning solutions for smart manufacturing.
+
+## Currently Exploring
+
+Building industrial software systems and applying machine learning solutions for smart manufacturing.
+
+- Advanced C#
+- Software Design Patterns
+- Industrial Software Architecture
+- Machine Vision & Industrial AI
 
 ## Featured Projects
-- Pick & Place Motion Control System
-- Predictive Maintenance Models
-- Customer Acquisition Cost Prediction
-- Signal Quality Prediction
+
+- Industrial Motion Control System (C#)
+- Flower Species Classification using CNN
+- Customer Acquisition Cost Prediction (Machine Learning)
+- Signal Quality Prediction using ANN
